@@ -1,4 +1,4 @@
-package Latihan_PBO_09;
+ package Latihan_PBO_09;
 
 public class Buku {
 	protected String judul;
